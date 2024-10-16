@@ -1,12 +1,52 @@
 [
-    {
-        "id": 1,
-        "Book": "Intro to JavaScript",
-	"Author":"Jeff Edwards"
-    },
-    {
-        "id": 2,
-        "Book": "AI Handbook",
-	"Author":"John Doe"
-    }
+  {
+    "id": 1,
+    "Book": "To Kill a Mockingbird",
+    "author": "Harper Lee"
+  },
+  {
+    "id": 2,
+    "Book": "1984",
+    "author": "George Orwell"
+  },
+  {
+    "id": 3,
+    "Book": "Pride and Prejudice",
+    "author": "Jane Austen"
+  },
+  {
+    "id": 4,
+    "Book": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald"
+  },
+  {
+    "id": 5,
+    "Book": "Moby Dick",
+    "author": "Herman Melville"
+  },
+  {
+    "id": 6,
+    "Book": "War and Peace",
+    "author": "Leo Tolstoy"
+  },
+  {
+    "id": 7,
+    "Book": "The Catcher in the Rye",
+    "author": "J.D. Salinger"
+  },
+  {
+    "id": 8,
+    "Book": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien"
+  },
+  {
+    "id": 9,
+    "Book": "The Hobbit",
+    "author": "J.R.R. Tolkien"
+  },
+  {
+    "id": 10,
+    "Book": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky"
+  }
 ]
