@@ -2,51 +2,71 @@
   {
     "id": 1,
     "Book": "To Kill a Mockingbird",
-    "author": "Harper Lee"
+    "author": "Harper Lee",
+    "genre": "Southern Gothic",
+    "published_year": 1960
   },
   {
     "id": 2,
     "Book": "1984",
-    "author": "George Orwell"
+    "author": "George Orwell",
+    "genre": "Dystopian",
+    "published_year": 1949
   },
   {
     "id": 3,
     "Book": "Pride and Prejudice",
-    "author": "Jane Austen"
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "published_year": 1813
   },
   {
     "id": 4,
     "Book": "The Great Gatsby",
-    "author": "F. Scott Fitzgerald"
+    "author": "F. Scott Fitzgerald",
+    "genre": "Tragedy",
+    "published_year": 1925
   },
   {
     "id": 5,
     "Book": "Moby Dick",
-    "author": "Herman Melville"
+    "author": "Herman Melville",
+    "genre": "Adventure",
+    "published_year": 1851
   },
   {
     "id": 6,
     "Book": "War and Peace",
-    "author": "Leo Tolstoy"
+    "author": "Leo Tolstoy",
+    "genre": "Historical Fiction",
+    "published_year": 1869
   },
   {
     "id": 7,
     "Book": "The Catcher in the Rye",
-    "author": "J.D. Salinger"
+    "author": "J.D. Salinger",
+    "genre": "Realistic Fiction",
+    "published_year": 1951
   },
   {
     "id": 8,
     "Book": "The Lord of the Rings",
-    "author": "J.R.R. Tolkien"
+    "author": "J.R.R. Tolkien",
+    "genre": "High Fantasy",
+    "published_year": 1954
   },
   {
     "id": 9,
     "Book": "The Hobbit",
-    "author": "J.R.R. Tolkien"
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "published_year": 1937
   },
   {
     "id": 10,
     "Book": "Animal Farm",
-    "author": "George Orwell"
+    "author": "George Orwell",
+    "genre": "Political Satire",
+    "published_year": 1945
   }
 ]
